@@ -2,3 +2,10 @@ I would prefer for you to remove download the below image and pic it to the side
 
 ![Untitled](https://github.com/user-attachments/assets/0c7af53c-47ec-4235-924e-e4bc3493f684)
 
+-------------------
+1. Print Order ID, Customer ID, First Name, Email and Total Order Amount for all orders placed.
+Sort the result in ascending order of Order ID.
+
+```sql
+
+```
